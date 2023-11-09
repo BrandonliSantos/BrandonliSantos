@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity, Godot, C#, JS**
 
-- 👨‍💻 All of my projects are available at [[github](https://github.com/BrandonliSantos)]([github](https://github.com/BrandonliSantos))
+- 👨‍💻 All of my projects are available at [github](https://github.com/BrandonliSantos)
 
 - 📫 How to reach me **leobrandonli@gmail.com**
 
