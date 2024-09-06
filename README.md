@@ -43,3 +43,9 @@
 ###
 
 <p align="left">Meu nome é Leonardo Brandonli dos Santos, Tecnólogo em Sistemas para Internet na FATEC Jahu. Trabalho como desenvolvedor FullStack e nas horas vagas como GameDev.</p>
+
+###
+
+[//]: <> (https://github-readme-stats.vercel.app/api?username=BrandonliSantos&show_icons=true&theme=dark)
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonliSantos&theme=blue-green)
